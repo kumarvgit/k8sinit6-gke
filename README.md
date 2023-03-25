@@ -1,0 +1,1 @@
+# k8sinit6-gke
