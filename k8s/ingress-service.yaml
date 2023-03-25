@@ -1,4 +1,3 @@
-# This is nginx configuration and there is ingress controller which takes care of routing
 apiVersion: networking.k8s.io/v1
 # UPDATE API
 kind: Ingress
